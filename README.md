@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Shiva Teja Reddy 👋
 
-<!--
-**chitlashivateja8099-art/chitlashivateja8099-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech AIML Student | Aspiring Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a student at REVA University,
+interested in building innovative
+technology solutions.
+
+## 🚀 About Me
+
+- 🎓 B.Tech Artificial Intelligence & Machine Learning
+- 💻 Interested in Web Development
+- 🐍 Learning Python Programming
+- 🤖 Exploring Machine Learning
+- 🧠 Practicing Data Structures & Algorithms
+
+## 🛠️ Technical Skills
+
+- Python
+- C Programming
+- HTML
+- CSS
+- JavaScript
+
+## 🌟 Featured Projects
+
+### 1. MineSafe Vision
+AI-powered fog safety and driver
+assistance system for mining vehicles.
+
+### 2. 3D Learning
+An educational platform concept
+for interactive 3D learning.
+
+### 3. C Programming Mini Project
+A menu-driven 2D graphics editor.
+
+## 🎯 My Goal
+
+To develop innovative solutions,
+improve my programming skills,
+and continuously explore new technologies.
+
+## 🤝 Connect With Me
+
+LinkedIn: YOUR_LINKEDIN_PROFILE
