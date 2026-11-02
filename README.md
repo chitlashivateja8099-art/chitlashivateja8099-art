@@ -45,4 +45,4 @@ and continuously explore new technologies.
 
 ## 🤝 Connect With Me
 
-LinkedIn: YOUR_LINKEDIN_PROFILE
+LinkedIn: CHITLA SHIVATEJA REDDY | LinkedIn
